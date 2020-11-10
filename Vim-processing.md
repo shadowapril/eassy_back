@@ -31,4 +31,23 @@ cover: https://w.wallhaven.cc/full/2e/wallhaven-2eroxm.jpg
 
 
 
-> **2. 
+> **2. 多行注释：
+>
+> ```sh
+> 1-: ctrl + v 进入VISUAL BLOCK模式，选择要注释的区域
+> 2-: 输入注释符，按Esc完成注释
+> ```
+>
+> **3. 取消注释
+>
+> ```sh
+> 1-: ctrl + v 进入VISUAL BLOCK模式，选择要注释的区域
+> 2-: 使用d命令删除选中的区域，取消注释
+> ```
+
+
+
+---
+
+
+
